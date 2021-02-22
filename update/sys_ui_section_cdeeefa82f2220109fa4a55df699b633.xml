@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Complete" section_id="cdeeefa82f2220109fa4a55df699b633" sys_domain="global" table="x_58872_needit_needit" version="3" view="Complete">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>15eeefa82f2220109fa4a55df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>99eeefa82f2220109fa4a55df699b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>11eeefa82f2220109fa4a55df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_set</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>95eeefa82f2220109fa4a55df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_duration</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>1deeefa82f2220109fa4a55df699b658</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>91eeefa82f2220109fa4a55df699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contract</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>19eeefa82f2220109fa4a55df699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>9deeefa82f2220109fa4a55df699b659</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>15eeefa82f2220109fa4a55df699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>99eeefa82f2220109fa4a55df699b65a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_assignee_list</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>11eeefa82f2220109fa4a55df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>95eeefa82f2220109fa4a55df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>1deeefa82f2220109fa4a55df699b65b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>91eeefa82f2220109fa4a55df699b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>correlation_id</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:27</sys_created_on>
+            <sys_id>19eeefa82f2220109fa4a55df699b65c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Complete" display_value="Complete" name="x_58872_needit_needit" sys_domain="global" view="0deeafa82f2220109fa4a55df699b6bf">cdeeefa82f2220109fa4a55df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Complete</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-22 16:38:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdeeefa82f2220109fa4a55df699b633</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_cdeeefa82f2220109fa4a55df699b633</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-22 16:38:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Complete" name="Complete">0deeafa82f2220109fa4a55df699b6bf</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

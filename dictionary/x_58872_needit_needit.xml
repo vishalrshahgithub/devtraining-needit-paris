@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request type" max_length="40" name="u_choice_request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Personal" sequence="0" value="pl"/>
+                <element inactive_on_update="false" label="Work" sequence="1" value="wk"/>
+                <element inactive_on_update="false" label="Behalf" sequence="2" value="bf"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="or"/>
+            </choice>
+        </element>
+        <element label="Attachment case file" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>
