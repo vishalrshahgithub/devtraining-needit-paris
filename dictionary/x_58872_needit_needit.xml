@@ -13,5 +13,6 @@
         </element>
         <element label="Attachment case file" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
         <element attributes="encode_utf8=false" label="Requested for" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_string_other" type="string"/>
     </element>
 </database>

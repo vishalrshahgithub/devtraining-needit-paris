@@ -14,10 +14,21 @@
     //Type appropriate comment here, and begin script below
 
     alert("Welcome to needIt application - msg on load event");
-    alert(" using glid form API to display Number field- " + g_form.getValue('number'));
-    alert(" Display using glid user API " + g_user.getFullName() );
+	//using message with sys ui mes key
+	g_form.addInfoMessage(getMessage('Administrators can impersonate another user'));
+	
+    jslog("jslog using glid form API to display Number field- " + g_form.getValue('number'));
+    consol.log("consol.log using glid user API " + g_user.getFullName() );
 
-
+	///try-catch block to catch runtime errors 
+	try{
+		helloWorld();
+	}
+	catch(err){
+		jslog('By jslog...A JavaScript runtime error occurred: ' + err.message);
+		consol.log('By console.log...A JavaScript runtime error occurred: ' + err.message);
+	}
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -25,7 +36,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f9a989812fae20109fa4a55df699b65f</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>NeedIt test JS script - onLoad</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -33,7 +44,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_client_f9a989812fae20109fa4a55df699b65f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-23 18:35:43</sys_updated_on>
+        <sys_updated_on>2021-02-23 20:57:25</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
